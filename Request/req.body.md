@@ -11,3 +11,8 @@ req.body;
 
 ### Notes
 >+ If a request contains one or more file uploads, only the text parameters sent _**before**_ the first file parameter will be available in `req.body`.
+
+
+<docmeta name="uniqueID" value="reqbody1481">
+<docmeta name="displayName" value="req.body">
+

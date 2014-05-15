@@ -104,3 +104,8 @@ Delete Pinkie Pie.
 #### Expected Response
 
 Same as above.
+
+
+<docmeta name="uniqueID" value="DestroyARecord867513">
+<docmeta name="displayName" value="Destroy A Record">
+

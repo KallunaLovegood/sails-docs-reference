@@ -10,3 +10,8 @@ Sails adds a few methods of its own to the `res` object, like [`res.view()`](). 
 The [Supported Features]() section includes a chart summarizes which methods and properties are available for each transport.
 
 
+
+
+<docmeta name="uniqueID" value="Response550242">
+<docmeta name="displayName" value="Response">
+

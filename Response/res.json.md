@@ -22,3 +22,8 @@ res.json(500, { error: 'message' })
 > + Don't forget this method's name is all lowercase.
 > + This method is **terminal**, meaning it is generally the last line of code your app should run for a given request (hence the advisory usage of `return` throughout these docs).
 
+
+
+<docmeta name="uniqueID" value="resjson72272">
+<docmeta name="displayName" value="res.json()">
+

@@ -114,3 +114,8 @@ UserController: {
 
 In each of the policies, the next policy in the chain will only be run if `next()`, the third argument, is called.  When and if the last policy calls `next()`, the requested controller action is run.
 
+
+
+<docmeta name="uniqueID" value="Policies753862">
+<docmeta name="displayName" value="Policies">
+

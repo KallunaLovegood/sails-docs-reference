@@ -45,3 +45,7 @@ Consequently, the blueprint API methods covered in this section of the documenta
 
 > + While the following documentation focuses on HTTP, the blueprint API (just like any of your custom actions and policies) is also compatible with WebSockets, thanks to the request interpreter.  Check out the reference section on the [browser SDK](./#!documentation/reference/SocketClient/SocketClient.html) for example usage.
 >
+
+<docmeta name="uniqueID" value="Blueprints170785">
+<docmeta name="displayName" value="Blueprints">
+

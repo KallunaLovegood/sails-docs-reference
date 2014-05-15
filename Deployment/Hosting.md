@@ -60,3 +60,8 @@ The `host:` is new to the file and is not created by default.  You will need to 
 These days, it's getting easier and easier to deploy powerful applications at scale.  That said, there isn't always time to do these things yourself.
 Sails.js is maintained by my company, [Balderdash](http://balderdash.co), a Node.js consultancy in Austin, TX. If your company needs professional support, reach out and we're happy to help.  The deployment part really isn't that hard, and in most cases, it shouldn't take more than a couple of hours tops.
 
+
+
+<docmeta name="uniqueID" value="Hosting276234">
+<docmeta name="displayName" value="Hosting">
+

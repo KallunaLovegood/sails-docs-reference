@@ -8,3 +8,7 @@ You can prepare your Sails app against CSRF attacks by enabling the built-in pro
 
 #### Notes
 + CSRF prevention is only a concern in scenarios where people use the same client application to send requests to multiple web services (e.g. cookies in a browser like Google Chrome can be used to send requests to Chase.com from both Chase.com and Horrible-Hacker-Site.com.)
+
+<docmeta name="uniqueID" value="CSRF300312">
+<docmeta name="displayName" value="CSRF">
+

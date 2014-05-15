@@ -20,3 +20,8 @@ getMyRooms: function(req, res) {
 }
 ```
 
+
+
+<docmeta name="uniqueID" value="sailssocketssocketRooms270469">
+<docmeta name="displayName" value="sails.sockets.socketRooms( `socket` )">
+

@@ -86,3 +86,7 @@ Below are the Grunt tasks that are included in your Sails project as well as a s
 > Runs predefined tasks whenever watched file patterns are added, changed or deleted. Watch for changes on files in the `assets/` folder, and re-runs the appropriate tasks (e.g. less and jst compilation).  This allows you to see changes to your assets reflected in your app without having to restart the Sails server.
 
 > [usage docs](https://github.com/gruntjs/grunt-contrib-watch)
+
+<docmeta name="uniqueID" value="DefaultTasks764297">
+<docmeta name="displayName" value="Default Tasks">
+

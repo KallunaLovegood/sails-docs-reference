@@ -53,3 +53,8 @@ res.send(200);
 ### Notes
 > + This method is **terminal**, meaning it is generally the last line of code your app should run for a given request (hence the advisory usage of `return` throughout these docs).
 
+
+
+<docmeta name="uniqueID" value="ressend588955">
+<docmeta name="displayName" value="res.send()">
+

@@ -29,3 +29,8 @@ Optionally wrap blueprint JSON responses in a JSONP callback using `res.jsonp()`
 ##### `pluralize` (boolean)
 Optionally use plural controller names in blueprint routes, e.g. `/users` for `api/controllers/UserController.js`. (default: `false`)
 
+
+
+<docmeta name="uniqueID" value="Blueprints187690">
+<docmeta name="displayName" value="Blueprints">
+

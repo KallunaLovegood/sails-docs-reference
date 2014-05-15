@@ -185,3 +185,7 @@ Assuming a `Purchase` model and a `PurchaseController` without a custom `find` m
 ### Notes
 
 > Unlike earlier versions of Sails, a socket is *not* automatically subscribed to the "class room" for a model as a result of running the "find" blueprint.  Therefore, it will not be alerted when a new instance of that model is created.  This behavior can be changed by setting the `autoWatch` property to `true` in `/config/blueprints.js`.
+
+<docmeta name="uniqueID" value="Find290807">
+<docmeta name="displayName" value="Find">
+

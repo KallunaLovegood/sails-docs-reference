@@ -23,3 +23,8 @@ res.clearCookie('name', { path: '/admin' });
 
 
 
+
+
+<docmeta name="uniqueID" value="resclearCookie314533">
+<docmeta name="displayName" value="res.clearCookie()">
+

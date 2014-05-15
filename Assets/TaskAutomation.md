@@ -165,3 +165,7 @@ Runs the **build** task (`tasks/register/build.js`).
 ##### `sails www --prod` (production)
 
 Runs the **buildProd** task (`tasks/register/buildProd.js`).
+
+<docmeta name="uniqueID" value="TaskAutomation282238">
+<docmeta name="displayName" value="Task Automation">
+

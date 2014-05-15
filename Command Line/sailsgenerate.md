@@ -22,3 +22,8 @@ Generate a **api/adapters/foo** folder containing the files necessary for buildi
 #### `sails generate generator <foo>`
 Generate a **foo** folder containing the files necessary for building a new generator.
 
+
+
+<docmeta name="uniqueID" value="sailsgenerate197041">
+<docmeta name="displayName" value="sails generate">
+

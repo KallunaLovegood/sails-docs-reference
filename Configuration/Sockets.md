@@ -179,3 +179,8 @@ A Static instance that is used to serve the Socket.io client and its dependencie
 
 The entry point where Socket.io starts looking for incoming connections. This should be the same between the client and the server.
 
+
+
+<docmeta name="uniqueID" value="Sockets959426">
+<docmeta name="displayName" value="Sockets">
+

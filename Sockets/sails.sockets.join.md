@@ -29,3 +29,7 @@ subscribeToFunRoom: function(req, res) {
 ```
 
 *Note: `req.socket` is only valid if the action is triggered via a socket request, e.g. `socket.get('/subscribeToFunRoom/someRoomName')`*
+
+<docmeta name="uniqueID" value="sailssocketsjoin958690">
+<docmeta name="displayName" value="sails.sockets.join()">
+

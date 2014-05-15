@@ -17,3 +17,8 @@ sails>
 
 > Note that `sails console` still lifts the server, so routes will be accessible using a browser.
 
+
+
+<docmeta name="uniqueID" value="sailsconsole198558">
+<docmeta name="displayName" value="sails console">
+

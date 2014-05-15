@@ -24,3 +24,8 @@ Layout support for your app can be configured or disabled in [`config/views.js`]
 > If layouts aren&rsquo;t your thing, or (for now) if you&rsquo;re using a server-side view engine other than ejs, (e.g. Jade, handlebars, haml, dust) you&rsquo;ll want to set `layout:false` in [`sails.config.views`](), then rely on your view engine&rsquo;s custom layout/partial support.
 
 
+
+
+<docmeta name="uniqueID" value="Layouts870655">
+<docmeta name="displayName" value="Layouts">
+

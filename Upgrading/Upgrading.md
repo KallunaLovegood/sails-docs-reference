@@ -281,3 +281,8 @@ _config: {
 If you notice something we've missed, please visit the `sails-docs` repo on GitHub and [edit the page](https://github.com/balderdashy/sails-docs/blob/master/Migration-Guide.md) to submit a pull request.
 
 If you're having migration issues that we havn't mentioned here, please open an issue on the `sails-docs` repo.  If you've already figured out how to resolve the issue, give us a hand by submitting a PR to this file describing the problem and how you fixed it. Thanks!
+
+
+<docmeta name="uniqueID" value="Upgrading509472">
+<docmeta name="displayName" value="Upgrading">
+

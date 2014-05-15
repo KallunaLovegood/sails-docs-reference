@@ -47,3 +47,8 @@ HTML BODY
 
 ### Notes
 > This example assumes you have rest blueprints enabled in `config/controllers.js`
+
+
+<docmeta name="uniqueID" value="socketpost175407">
+<docmeta name="displayName" value="socket.post( `url`, [`params`], [`callback`] )">
+

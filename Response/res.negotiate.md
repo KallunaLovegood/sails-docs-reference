@@ -29,3 +29,8 @@ If a more specific diagnosis cannot be determined, Sails will default to [`res.s
 
 
 
+
+
+<docmeta name="uniqueID" value="resnegotiate730536">
+<docmeta name="displayName" value="res.negotiate()">
+

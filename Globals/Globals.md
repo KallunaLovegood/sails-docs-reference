@@ -18,3 +18,8 @@ Sails also exposes an instance of [lodash]() as `_`, and an instance of [async](
 
 > Bear in mind that none of the globals, including `sails`, are accessible until _after_ sails has lifted.  In other words, you won't be able to use `sails.models.user` or `User` outside of a function (since `sails` will not have finished loading yet.)
 
+
+
+<docmeta name="uniqueID" value="Globals668238">
+<docmeta name="displayName" value="Globals">
+

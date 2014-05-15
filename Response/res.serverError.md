@@ -27,3 +27,8 @@ If the request "wants JSON", Sails will serve a default error page ("views/500.j
 >+ If `pathToView` refers to a missing view, this method will respond as if the request "wants JSON".
 >+By default, the specified error (`err`) will be excluded if the app is running in the "production" environment (i.e. `process.env.NODE_ENV === 'production'`).
 
+
+
+<docmeta name="uniqueID" value="resserverError551750">
+<docmeta name="displayName" value="res.serverError()">
+

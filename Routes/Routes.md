@@ -57,3 +57,8 @@ The Sails router is "protocol-agnostic"; it knows how to handle both [HTTP reque
 #### Notes
 + Advanced users may opt to circumvent the router entirely and send low-level, completely customizable WebSocket messages directly to the underlying Socket.io server.  You can bind socket events directly in your app's [`onConnect`]() function (located in [`config/sockets.js`]().)  But bear in mind that, in most cases, you are better off leveraging the request interpreter for socket communication - maintaining consistent routes across HTTP and WebSockets helps keep your app maintainable.
 
+
+
+<docmeta name="uniqueID" value="Routes849188">
+<docmeta name="displayName" value="Routes">
+

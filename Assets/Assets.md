@@ -13,3 +13,8 @@ Like most web servers, Sails honors the `index.html` convention.  For instance, 
 
 ##### Precedence
 It is important to note that the static [middleware](http://stephensugden.com/middleware_guide/) is installed **after** the Sails router.  So if you define an [explicit route](), but also have a file in your assets directory with a conflicting path, the explicit route will intercept the request before it reaches the static middleware. For example, if you create `assets/index.html`, with no routes defined in your [`config/routes.js`]() file, it will be served as your home page.  But if you define an explicit route, `'/': 'FooController.bar'`, that route will take precedence.
+
+
+<docmeta name="uniqueID" value="Assets220313">
+<docmeta name="displayName" value="Assets">
+

@@ -19,3 +19,8 @@ The logger file configures the log level for your app, as well as the transport.
 
 By default, the level is set to `info`.
 
+
+
+<docmeta name="uniqueID" value="Log812909">
+<docmeta name="displayName" value="Log">
+

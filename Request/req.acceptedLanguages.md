@@ -26,3 +26,8 @@ req.acceptedLanguages;
 > + You can expect the "Accept-Language" header to exist in most requests which originate from web browsers.
 
 
+
+
+<docmeta name="uniqueID" value="reqacceptedLanguages311952">
+<docmeta name="displayName" value="req.acceptedLanguages">
+

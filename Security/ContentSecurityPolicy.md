@@ -9,3 +9,8 @@ stuff
 
 
 
+
+
+<docmeta name="uniqueID" value="ContentSecurityPolicy649437">
+<docmeta name="displayName" value="Content Security Policy">
+

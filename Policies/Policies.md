@@ -162,3 +162,8 @@ Passport works great with Sails!  In general, since Sails uses Connect/Express a
 
 There are a few good examples of this floating around, such as [Using Passport.JS with Sails.JS](http://jethrokuan.github.io/2013/12/19/Using-Passport-With-Sails-JS.html).
 
+
+
+<docmeta name="uniqueID" value="Policies766425">
+<docmeta name="displayName" value="Policies">
+

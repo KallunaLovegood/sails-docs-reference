@@ -42,3 +42,8 @@ HTML BODY
 ### Notes
 > This example assumes you have rest blueprints enabled in `config/controllers.js`
 
+
+
+<docmeta name="uniqueID" value="socketdelete671580">
+<docmeta name="displayName" value="socket.delete( `url`, [`params`], [`callback`] )">
+

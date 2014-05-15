@@ -48,3 +48,8 @@ req.file('avatar').upload( SomeReceiver(), function (err, files) {
 
 
 
+
+
+<docmeta name="uniqueID" value="reqfile784692">
+<docmeta name="displayName" value="req.file()">
+

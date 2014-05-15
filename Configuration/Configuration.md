@@ -93,3 +93,8 @@ var apiSecret = sails.config.linkedin.apiSecret;
 ### Notes
 > The built-in meaning of the settings in `sails.config` are, in some cases, only interpreted by Sails during the "lift" process.  In other words, changing some options at runtime will have no effect.  To change the port your app is running on, for instance, you can't just change `sails.config.port`-- you'll need to change or override the setting in a configuration file or as a command-line argument, etc., then restart the server.
 
+
+
+<docmeta name="uniqueID" value="Configuration615655">
+<docmeta name="displayName" value="Configuration">
+

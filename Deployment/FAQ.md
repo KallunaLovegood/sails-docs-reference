@@ -44,3 +44,8 @@ Then `git clone` your project (or `scp` it onto the server if it's not in a git 
 Performance in Sails is comparable to what you'd expect from a standard Node.js/Express application.  In other words, fast!  We've done some optimizations ourselves in Sails and Waterline, but primarily, our focus has been on not messing up what was already really fast.  Above all, we have @ry, @visionmedia, @isaacs, #v8, @joyent and the rest of the Node.js core team to thank.
 
 + http://serdardogruyol.com/?p=111
+
+
+<docmeta name="uniqueID" value="FAQ475097">
+<docmeta name="displayName" value="FAQ">
+

@@ -20,3 +20,8 @@ req.is('text/*');
 // -> true
 ```
 
+
+
+<docmeta name="uniqueID" value="reqis371514">
+<docmeta name="displayName" value="req.is()">
+

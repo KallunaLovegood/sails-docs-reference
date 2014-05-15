@@ -48,3 +48,8 @@ res.cookie('rememberme', '1', {
 ```
 
 
+
+
+<docmeta name="uniqueID" value="rescookie624994">
+<docmeta name="displayName" value="res.cookie()">
+

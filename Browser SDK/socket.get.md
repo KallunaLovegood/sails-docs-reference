@@ -46,3 +46,8 @@ HTML BODY
 ### Notes
 > This example assumes you have rest blueprints enabled in `config/controllers.js`
 
+
+
+<docmeta name="uniqueID" value="socketget480208">
+<docmeta name="displayName" value="socket.get( `url`, [`params`], [`callback`] )">
+

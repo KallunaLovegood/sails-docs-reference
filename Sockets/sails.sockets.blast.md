@@ -30,3 +30,7 @@ sayHiToEverybody: function(req, res) {
 // Client-side -- subscribe to all "message" events
 socket.on('message', function(data) {console.log("Global message: ", data.msg)});
 ```
+
+<docmeta name="uniqueID" value="sailssocketsblast345475">
+<docmeta name="displayName" value="sails.sockets.blast( [`event`], `data`, [`socketToOmit`] )">
+

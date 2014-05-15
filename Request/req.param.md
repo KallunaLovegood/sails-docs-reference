@@ -40,3 +40,8 @@ We can get the expected result by sending the `sku` parameter any of the followi
 ### Notes
 > + If you'd like to get ALL parameters from ALL sources (including the URL path, query string, and parsed request body) you can use [`req.params.all()`]().
 
+
+
+<docmeta name="uniqueID" value="reqparam149618">
+<docmeta name="displayName" value="req.param()">
+

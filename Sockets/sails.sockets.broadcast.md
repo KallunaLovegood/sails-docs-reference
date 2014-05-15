@@ -32,3 +32,7 @@ sayHiToFunRoom: function(req, res) {
 // Client-side -- subscribe to all "chat" events
 socket.on('chat', function(data) {console.log("Chat from user #", data.from, " in room ", data.room, ": ", data.msg)});
 ```
+
+<docmeta name="uniqueID" value="sailssocketsbroadcast253997">
+<docmeta name="displayName" value="sails.sockets.broadcast( `roomName`, [`event`], `data`, [`socketToOmit`] )">
+

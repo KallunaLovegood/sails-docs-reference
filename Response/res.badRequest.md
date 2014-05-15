@@ -60,3 +60,8 @@ If a request "wants JSON" and a string `err` argument is provided, the error mes
 
 
 
+
+
+<docmeta name="uniqueID" value="resbadRequest631019">
+<docmeta name="displayName" value="res.badRequest()">
+

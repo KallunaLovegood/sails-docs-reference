@@ -15,3 +15,8 @@ Configuration for your app's server-side [views](./#!documentation/reference/Vie
 
 > + If your app is NOT using `ejs` (the default view engine) Sails will function as if the `layout` option was set to `false`.  To take advantage of layouts when using a custom view engine like Jade or Handlebars, check out [that view engine's documentation](./#!documentation/reference/Views/ViewEngines.html) to find the appropriate syntax.
 
+
+
+<docmeta name="uniqueID" value="sailsconfigviews588825">
+<docmeta name="displayName" value="sails.config.views">
+

@@ -37,3 +37,8 @@ Services are automatically exposed by Sails to the rest of your application.
 // Somewhere in a conroller
   EmailService.sendInviteEmail({email: 'test@test.com', name: 'test'});
 ```
+
+
+<docmeta name="uniqueID" value="Services157331">
+<docmeta name="displayName" value="Services">
+

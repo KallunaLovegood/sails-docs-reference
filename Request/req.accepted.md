@@ -28,3 +28,8 @@ req.accepted;
 > + See the [`accepts` module](https://github.com/expressjs/accepts) for the finer details of the header parsing algorithm used in Sails/Express/Koa/Connect.
 
 
+
+
+<docmeta name="uniqueID" value="reqaccepted334477">
+<docmeta name="displayName" value="req.accepted">
+

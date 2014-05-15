@@ -21,3 +21,7 @@ socketId: function(req, res) {
     });
 }
 ```
+
+<docmeta name="uniqueID" value="sailssocketsid240053">
+<docmeta name="displayName" value="sails.sockets.id( `socket` )">
+

@@ -46,3 +46,8 @@ If you want to use Sails to internationalize your client-side templates, just pu
 + In production mode, you'll want to translate and precompile all templates on lift(). In loadtime-critical scenarios (e.g. mobile web apps) you can even upload your translated, precompiled, minified templates to a CDN like Cloudfront for further performance gains.
 
 
+
+
+<docmeta name="uniqueID" value="Locales998452">
+<docmeta name="displayName" value="Locales">
+

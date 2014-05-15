@@ -48,3 +48,8 @@ In production, instead of `sails lift`, you'll want to use forever to make sure 
 + From your app directory, start the server with forever: `forever start app.js --prod`
   + This is the same thing as using `sails lift --prod`, but if the server crashes, it will be automatically restarted.
  
+
+
+<docmeta name="uniqueID" value="Deployment402941">
+<docmeta name="displayName" value="Deployment">
+

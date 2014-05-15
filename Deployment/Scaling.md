@@ -35,3 +35,8 @@ Load Balancer  <-->    Sails.js server    <-->    Socket store (Redis)
   + More on load balancers: http://en.wikipedia.org/wiki/Load_balancing_(computing)
 + Configure your load balancer to terminate SSL requests
   + Because of this, you won't need to use the SSL configuration in Sails-- the traffic will already be decrypted
+
+
+<docmeta name="uniqueID" value="Scaling291270">
+<docmeta name="displayName" value="Scaling">
+

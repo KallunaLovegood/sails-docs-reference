@@ -160,3 +160,8 @@ In your Sails app, a **model** is like one of the file cabinets.  It contains **
 + This documentation on models is not applicable if you are overriding the built-in ORM, [Waterline](https://github.com/balderdashy/waterline).  In that case, your models will follow whatever convention you set up, on top of whatever ORM library you're using (e.g. Mongoose.)
 
 
+
+
+<docmeta name="uniqueID" value="Models416997">
+<docmeta name="displayName" value="Models">
+

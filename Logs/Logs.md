@@ -23,3 +23,8 @@ When configured at a given log level, Sails will output log messages that are ou
 + The default log level is "info".  When your app's log level is set to "info", Sails logs limited information about the server/app's status.
 + When the log level is set to "silly", Sails outputs internal information on which routes are being bound and other detailed framework lifecycle information, diagnostics, and implementation details.
 + When the log level is set to "verbose", Sails logs Grunt output, as well as much more detailed information on the routes, models, hooks, etc. that were loaded.
+
+
+<docmeta name="uniqueID" value="Logs277763">
+<docmeta name="displayName" value="Logs">
+

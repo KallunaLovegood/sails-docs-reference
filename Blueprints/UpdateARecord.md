@@ -203,3 +203,7 @@ Remove Pinkie Pie's pet, "Gummy" (ID 12)
 #### Expected Response
 
 Same as above.
+
+<docmeta name="uniqueID" value="UpdateARecord421031">
+<docmeta name="displayName" value="Update A Record">
+

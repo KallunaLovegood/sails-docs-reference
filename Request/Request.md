@@ -8,3 +8,8 @@ A nice side effect of this compatibility is that, in many cases, you can paste e
 Sails adds a few methods and properties of its own to the `req` object, like [`req.wantsJSON`]() and [`req.params.all()`]().  These features are syntactic sugar on top of the underlying implementation, and also support both HTTP and WebSockets.
 
 The [Features](./features) overview at [www.sailsjs.org](http://www.sailsjs.org) includes a chart summarizes which methods and properties are available for each transport.
+
+
+<docmeta name="uniqueID" value="Request35837">
+<docmeta name="displayName" value="Request">
+
