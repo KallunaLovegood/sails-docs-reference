@@ -6,8 +6,16 @@ Attach the node debugger and lift the sails app; similar to running `node --debu
 ### Example
 
 ```sh
-$ sails version
-0.10.0-rc5
+$ sails debug
+
+info: Running node-inspector on this app...
+info: If you don't know what to do next, type `help`
+info: Or check out the docs:
+info: http://nodejs.org/api/debugger.html
+
+info: ( to exit, type <CTRL>+<C> )
+
+debugger listening on port 5858
 ```
 
 
